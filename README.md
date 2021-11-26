@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Yue Liu.
+😄 I'm Yue Liu.
 
 🔭 I graduated from Northeastern University at Qinhuangdao (NEUQ). 
 
