@@ -4,7 +4,7 @@ I'm Yue Liu.
 
 🔭 I graduated from Northeastern University at Qinhuangdao (NEUQ). 
 
-🌱 I was recommended for admission to the National University of Defense Technology (NUDT) with excellent grades and technological innovation capability. 
+🌱 I was recommended for admission to the National University of Defense Technology (NUDT) with excellent grades. 
 
 👯 I am working hard and pursuing my master degree in College of Computer, NUDT. 
 
