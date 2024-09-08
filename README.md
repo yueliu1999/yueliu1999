@@ -1,14 +1,5 @@
 ### Hi 👋
 
-😄 I'm Yue Liu.
-
-🔭 I graduated from Northeastern University. 
-
-🌱 I was recommended for admission to the National University of Defense Technology (NUDT) with excellent grades. 
-
-👯 I am working hard and pursuing my master degree in College of Computer, NUDT. 
-
-⚡ My current research interests include Graph Neural Networks, Deep Clustering and Self-Supervised Learning.
 
   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=yueliu1999" />
