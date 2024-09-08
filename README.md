@@ -1,5 +1,6 @@
 ### Hi 👋
 
+😄 My name is Yue Liu. Nice to meet you!
 
   <center> 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=yueliu1999" />
