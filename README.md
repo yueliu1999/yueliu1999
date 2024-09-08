@@ -2,7 +2,7 @@
 
 😄 I'm Yue Liu.
 
-🔭 I graduated from Northeastern University at Qinhuangdao (NEUQ). 
+🔭 I graduated from Northeastern University. 
 
 🌱 I was recommended for admission to the National University of Defense Technology (NUDT) with excellent grades. 
 
